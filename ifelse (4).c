@@ -7,7 +7,7 @@ void main()
     scanf("%d %d %d", &a, &b, &c);
     if (a > b && a > c)
     {
-        printf("A is biggest number");
+        printf("A is bigdgjlkadjgkafjgest number");
     }
     else if (b > a && b > c)
     {
